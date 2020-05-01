@@ -14,6 +14,7 @@ public class Maphash {
 		map.put("Actor", "Mike");
 		map.put("doctor", "david");
 		map.put("ceo", "Carolyn");
+		map.put("cto", "MMK");
 
 		// System.out.println(map);
 		// System.out.println(map.get("Actor"));
